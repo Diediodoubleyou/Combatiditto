@@ -1,0 +1,3 @@
+morado		rosado		rosado claro		azul		celester
+#D925BB		#F28DEB		#F1C4F2			#3238A6		#5ED7F2
+(217,37,187)	(242,141,235)	(241,196,242)		(50,56,166)	(94,215,242)
